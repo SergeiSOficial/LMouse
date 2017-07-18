@@ -38,11 +38,11 @@
  
 #define dtik 1
 // pin number declarations. We're using the Broadcom chip pin numbers.
-const int p21pin = 2; // PWM LED - Broadcom pin 18, P1 pin 12
-const int p22pin = 3; // Regular LED - Broadcom pin 23, P1 pin 16
-const int p23pin = 4; // Active-low button - Broadcom pin 17, P1 pin 11
+const int p21pin = 2; 
+const int p22pin = 3; 
+const int p23pin = 4; 
 const int p24pin = 17;
-const int p25pin = 27; // Use this to set an LED brightness
+const int p25pin = 27; 
 const int p26pin = 22;
 const int p11pin = 10;
 const int p12pin = 9;
